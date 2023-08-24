@@ -4,3 +4,4 @@ git clone git@github.com:MathisDev/vimrc.git && cd vimrc
 mv solarized.vim ~/.vim/colors/ </br>
 mv vimrc ~./.vimrc
 <h2>Preview</h2>
+![Preview of vimrc ]()
