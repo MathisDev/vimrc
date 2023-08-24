@@ -4,4 +4,4 @@ git clone git@github.com:MathisDev/vimrc.git && cd vimrc
 mv solarized.vim ~/.vim/colors/ </br>
 mv vimrc ~./.vimrc
 <h2>Preview</h2>
-![Preview](img/cp.png)
+![Alt preview](https://github.com/MathisDev/vimrc/blob/master/img/cp.png)
